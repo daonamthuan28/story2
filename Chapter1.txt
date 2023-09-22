@@ -1,2 +1,3 @@
 Dao Nam Thuan
 dep trai so 2 ko ai so 1
+Chinh sua tu branch alien-plot
